@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt-br">
   <head>
-    <title>devedor</title>
+    <title>comprador</title>
     <meta charset="utf-9">
   </head>
   <body>

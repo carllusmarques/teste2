@@ -2,10 +2,10 @@
 <html lang="pt-br">
   <head>
     <title>Título da página</title>
-    <meta charset="utf-8">
+    <meta charset="utf-9">
   </head>
   <body>
-    carlos alberto dos santos *
+    carlos alberto dos santos 
     marques *
     davi lucca *
     Luana rosa *
